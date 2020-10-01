@@ -1,6 +1,6 @@
 # Business Intelligence and Analytics Internship
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/MithilSai/)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/MithilSai/)
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## Tasks done for the Internship of the SPARKS FOUNDATION
@@ -9,4 +9,4 @@
 ### Run these on Jupyter Notebook, Lab.
 
 ## Developed by 
-[Jakka Mithil sai](https://www.linkedin.com/in/mithil-sai-jakka-7b5a9116a/)
+[Jakka Mithil sai](https://www.linkedin.com/in/mithil1729/)
